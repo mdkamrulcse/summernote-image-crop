@@ -57,6 +57,9 @@ $(document).ready(function() {
         });
 ```
 
+## Demo
+https://mdkamrulcse.github.io/summernote-image-crop/
+
 ## License
 
 This plugin may be freely distributed and is licensed under the MIT license.
