@@ -18,7 +18,7 @@
      * Initialize in the toolbar like so:
      *   toolbar: ['insert', ['imagePlugin']]
      *
-     * Getweb Custom image with image cropping Plugin for summernote
+     * Custom image with image cropping Plugin for summernote
      */
 
     $.extend($.summernote.options, {
