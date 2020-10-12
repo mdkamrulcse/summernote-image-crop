@@ -1,4 +1,4 @@
-# summernote-image-list
+# summernote-image-crop-then-insert-to-editor
 
 A plugin for [Summernote](https://github.com/summernote/summernote/) WYSIWYG editor.
 
